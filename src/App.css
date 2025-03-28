@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://static.korso.pl/wbieszczady/articles/image/69ba78fe-847e-4c2d-8226-b09d86de5ff2);
+  background-size: cover;
+}
+.g {
+  border: 5px solid magenta;
+  border-radius: 10px;
+text-align: center;
+  background-size: cover;
+  margin: 0 auto;
+  width: 1200px;
+  height: 200px;
+}
+.text {
+color: white;
+font-size: 30px;
+text-align: center;
+}
+.btext {
+  color: white;
+  font-size: 50px;
+  }
+  .gg {
+    border: 5px solid blue;
+    border-radius: 10px;
+  text-align: center;
+    margin: 0 auto;
+    width: 500px;
+    height: 400px;
+    box-shadow: red;
+    color: white;
+    font-size: 30px;
+  }
+  .ggg {
+    border: 2px solid orange;
+    border-radius: 5px;
+  text-align: center;
+    margin: 0 auto;
+    width: 500px;
+    height: 350px;
+    box-shadow: yellow;
+    color: white;
+    font-size: 30px;
+  }
